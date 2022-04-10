@@ -1,0 +1,19 @@
+body {
+    background-color: #181818;
+}
+div.container-fluid {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+h1 {
+   text-align: center;
+   color: silver;
+}
+a.nav-link {
+    color: silver;
+    border-bottom: 2px solid slateblue;
+}
+a.nav-link:hover {
+    color: snow;
+}
